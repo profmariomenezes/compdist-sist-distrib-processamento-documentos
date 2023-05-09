@@ -5,4 +5,4 @@ Uma aplicação utilizando REST para converter arquivos PDF para txt e para redu
 ## Objetivo
 Neste projeto você vai implementar diversas funcionalidades para entregar uma aplicação que faz a conversão de arquivos PDF para TXT ou a redução de resolução de artigos PDF, diminuindo assim o seu tamanho.
 
-As demais instruções estão no PDF `Proj_Lab_CompDist_20231`
+As demais instruções estão no PDF `Projeto_Lab_CompDist_20231.pdf`
