@@ -1,8 +1,9 @@
-# PDF converte e reduz resolução
+# Sistema Distribuído de Processamento de Documentos com Ordenação Total de Eventos
 
-Uma aplicação utilizando REST para converter arquivos PDF para txt e para reduzir a resolução de PDFs
+Uma aplicação utilizando REST para converter arquivos PDF para txt, para reduzir a resolução de PDFs, converter entre tipos de imagens e também redimensionar imagens.
 
 ## Objetivo
-Neste projeto você vai implementar diversas funcionalidades para entregar uma aplicação que faz a conversão de arquivos PDF para TXT ou a redução de resolução de artigos PDF, diminuindo assim o seu tamanho.
+Este documento especifica um sistema distribuído para processamento de documentos, utilizando containers Docker e relógios vetoriais para garantir a ordenação total de eventos no log. O sistema será composto por uma aplicação principal e vários microsserviços.
 
-As demais instruções estão no PDF `Projeto Lab Conversão PDF e Redução Resolução.pdf`
+
+As demais instruções estão no PDF `Sistema Distribuído de Processamento de Documentos.pdf`
